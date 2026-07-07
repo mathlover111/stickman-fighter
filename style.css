@@ -1,0 +1,16 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+canvas {
+    background-color: #fff; /* 遊戲背景為白色 */
+    border: 4px solid #555;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    display: block;
+    margin: 20px auto;
+}
